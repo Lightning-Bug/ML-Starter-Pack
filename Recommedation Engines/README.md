@@ -33,7 +33,7 @@ The answer is **Recommendation Engines**
 ##### Download Dataset
 Before You proceed to the folder kindly downoload the following Datasets.
 - Rating and anime -https://www.kaggle.com/CooperUnion/anime-recommendations-database
-- http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+- BX USers - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 
 > In the folder you will find three files which will clear all your Basic concepts
